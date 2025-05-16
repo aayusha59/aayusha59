@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 Second-Year Computer Science Student @ <strong>Queen's University</strong><br>
-  📫 <a href="mailto:1aryalaayush@gmail.com"><strong>Email Me</strong></a> | 🌐 <a href="https://aayusharyal.vercel.app"><strong>My Website</strong></a>
+  📫 <a href="mailto:1aryalaayush@gmail.com"><strong>Email Me</strong></a>
 </p>
 
 ---
